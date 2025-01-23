@@ -22,7 +22,6 @@ The system is designed to:
 ## *Test Results and Validation*
 
 ### Key Outcomes:
-- Detection accuracy: X% 
 - Multi-vehicle mAP score: 52
 - Real-time performance tested in various conditions.
 
