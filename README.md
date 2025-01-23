@@ -41,7 +41,6 @@ If you'd like access, please contact on Linked-IN or create an issue in this rep
 ## *Contact*
 
 Feel free to connect if you have any questions or wish to discuss this project further:
-- *Email*: 
 - *LinkedIn*: [Jaydip Borad](https://www.linkedin.com/in/jaydip-borad/)
 
 ---
