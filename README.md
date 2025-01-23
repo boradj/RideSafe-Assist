@@ -26,7 +26,7 @@ The system is designed to:
 - Real-time performance tested in various conditions.
 - Optimised model to run on Raspberry Pi 4 while processing other API endpoints.
 
-More details are available in the RESULTS.md.
+More details are available in the **RESULTS.md**.
 
 ---
 
