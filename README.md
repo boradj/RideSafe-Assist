@@ -24,6 +24,7 @@ The system is designed to:
 ### Key Outcomes:
 - Multi-vehicle mAP score: 52
 - Real-time performance tested in various conditions.
+- Optimised model to run on Raspberry Pi 4 while processing other API endpoints.
 
 More details are available in the RESULTS.md.
 
@@ -34,7 +35,7 @@ More details are available in the RESULTS.md.
 The code for this project is not included in this repository.  
 However, I am happy to share it whenever you'd like.  
 
-If you'd like access, please contact on Linked-IN or create an issue in this repository.
+If you'd like access, don't hesitate to get in touch with Linked-In or create an issue in this repository.
 
 ---
 
