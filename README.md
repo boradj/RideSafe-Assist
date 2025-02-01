@@ -10,7 +10,7 @@ This repository presents the details of my thesis, titled *"Development and Impl
 The system is designed to:
 - Detect vehicles approaching a cyclist from the rear and sides.
 - Measure accurate distances and speeds with direction using the camera.
-- Provide real-time alerts of proximity and other vehicles to enhance cyclist safety.
+- Provide real-time alerts to user using GUI of proximity and other vehicles to enhance cyclist safety.
 
 Overview can be seen in presentation: [**Presentation**](https://github.com/boradj/RideSafe-Assist/blob/main/final_thesis.pdf)
 
