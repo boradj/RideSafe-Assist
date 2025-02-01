@@ -23,7 +23,7 @@ The system is designed to:
 
 ## *Hardware Integration*
 
-<img src="https://github.com/boradj/RideSafe-Assist/blob/main/Images/sensorintegratefront.jpg" width="375" height="375"> <img src="" width="375" height="375">
+<img src="https://github.com/boradj/RideSafe-Assist/blob/main/Images/sensorintegratefront.jpg" width="375" height="375"> 
 
 ### Key Outcomes:
 - Multi-vehicle mAP score: 52
