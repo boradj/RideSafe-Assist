@@ -28,9 +28,9 @@ The system is designed to:
 ### Key Outcomes:
 - Multi-vehicle mAP score: 52
 - Real-time performance tested in various conditions.
-- Optimised model to run on Raspberry Pi 4 while processing other API endpoints.
+- Optimised model to run on low-level-hardware like Raspberry Pi 4 while processing other API endpoints.
 
-More details are available in the.[**RESULTS.md**](https://github.com/boradj/RideSafe-Assist/blob/main/RESULTS.md)
+More details are available in the [**RESULTS.md**](https://github.com/boradj/RideSafe-Assist/blob/main/RESULTS.md)
 
 ---
 
