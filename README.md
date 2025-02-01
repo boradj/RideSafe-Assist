@@ -21,6 +21,10 @@ The system is designed to:
 
 ## *Test Results and Validation*
 
+## *Hardware Integration*
+
+<img src="https://github.com/boradj/RideSafe-Assist/blob/main/Images/sensorintegratefront.jpg" width="375" height="375"> <img src="" width="375" height="375">
+
 ### Key Outcomes:
 - Multi-vehicle mAP score: 52
 - Real-time performance tested in various conditions.
