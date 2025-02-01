@@ -25,7 +25,7 @@ Overview can be seen in presentation: [**Presentation**](https://github.com/bora
 
 ### *Hardware Integration*
 
-<img src="https://github.com/boradj/RideSafe-Assist/blob/main/Images/sensorintegratefront.jpg" width="375" height="375"> <img src="https://github.com/boradj/RideSafe-Assist/blob/main/Images/cyclemount1.png" width="375" height="375"> 
+<img src="https://github.com/boradj/RideSafe-Assist/blob/main/Images/sensorintegratefront.jpg" width="375" height="375"> <img src="https://github.com/boradj/RideSafe-Assist/blob/main/Images/cyclemount2.png" width="375" height="375"> 
 
 ### Key Outcomes:
 - Multi-vehicle mAP score: 52
