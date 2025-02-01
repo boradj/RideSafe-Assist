@@ -12,6 +12,8 @@ The system is designed to:
 - Measure accurate distances using the camera.
 - Provide real-time alerts of proximity and other vehicle to enhance cyclist safety.
 
+Overview can be seen in presentation: [**Presentation**](https://github.com/boradj/RideSafe-Assist/blob/main/final_thesis.pdf)
+
 ### *Highlights*
 - *Object Detection Model*: YOLOFastestV2.
 - *Hardware Integration*: Raspberry Pi 4B, ultrasonic sensors, and camera module.
