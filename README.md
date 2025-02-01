@@ -28,7 +28,7 @@ Overview can be seen in presentation: [**Presentation**](https://github.com/bora
 <img src="https://github.com/boradj/RideSafe-Assist/blob/main/Images/sensorintegratefront.jpg" width="375" height="375"> <img src="https://github.com/boradj/RideSafe-Assist/blob/main/Images/cyclemount2.png" width="375" height="375"> 
 
 ### Key Outcomes:
-- Multi-vehicle mAP score: 52
+- Multi-vehicle mAP score: 53
 - Real-time performance tested in various conditions.
 - Optimised model to run on low-level-hardware like Raspberry Pi 4 while processing other API endpoints.
 
