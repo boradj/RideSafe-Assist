@@ -21,7 +21,7 @@ The system is designed to:
 
 ## *Test Results and Validation*
 
-## *Hardware Integration*
+### *Hardware Integration*
 
 <img src="https://github.com/boradj/RideSafe-Assist/blob/main/Images/sensorintegratefront.jpg" width="375" height="375"> 
 
